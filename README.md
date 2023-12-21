@@ -2,7 +2,7 @@
 
 https://www.gov.uk/search-house-prices
 
-This is very muc h a WIP. 
+This is very much a WIP.  For now am building up notes / logic.
 
 Backend Frontend will be golang based using:
 
